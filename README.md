@@ -13,4 +13,4 @@ https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-mi
 
 ### Objectifs :
 
-L'objectif de se projet était de prédire quelle équipe allait gagner la partie avec les données à seulement 10 minutes de jeu. Une partie durant en moyenne 30min.
+L'objectif de ce projet était de prédire quelle équipe allait gagner la partie avec les données disponibles à 10 minutes de jeu. Une partie durant en moyenne 30min.
