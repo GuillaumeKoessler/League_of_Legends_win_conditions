@@ -2,6 +2,6 @@
 
 ### Requirements :
 
--python 3.7
--xgboost 1.0.0
--shap 3.5.0
+-python 3.7   
+-xgboost 1.0.0   
+-shap 3.5.0   
